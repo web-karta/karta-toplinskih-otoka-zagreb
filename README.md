@@ -1,1 +1,1 @@
-# karta-ljetnih-temperatura-tla-te-urbanih-i-zelenih-otoka-na-podrucju-grada-zagreba
+# Karta ljetnih temperatura tla te urbanih i zelenih otoka na području Grada Zagreba
